@@ -1,18 +1,6 @@
 # Face-Centering-SG90-Compatible-Haar-Cascade-OpenCV
 
-Hi, my name is Justin. This repository contains the source code for my project, with a focus on real-time face tracking, visualization, and servo-based gimbal control. The project explores and compares two different computer vision approaches: a deep-learning-based YOLOv8 pipeline and a classical OpenCV Haar Cascade pipeline.
-
-Group Members: 
-Paul Kenneth Castillo Andes
-2702389606
-Makaio Wimylie
-2702281203
-Justin Jeremiah Hendrajudo
-2702406221
-Justin Lee
-2702406221
-
-Lecturer: D7040 - RICKY REYNARDO SISWANTO, S.T., M.Kom.
+This repository contains the source code for my project, with a focus on real-time face tracking, visualization, and servo-based gimbal control. The project explores and compares two different computer vision approaches: a deep-learning-based YOLOv8 pipeline and a classical OpenCV Haar Cascade pipeline.
 
 Note: The YOLOv8 model provided in this repository has already been trained. If you want to retrain the model, you need to train it manually using your own environment.
 
